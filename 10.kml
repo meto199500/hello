@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+<Document id="Layers">
+  <name>Layers</name>
+  <Snippet></Snippet>
+  <Folder id="FeatureLayer0">
+    <name>Export_Output_2</name>
+    <Snippet></Snippet>
+    <Placemark id="ID_00000">
+      <name>İç Anadolu Bölgesi</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>İç Anadolu Bölgesi</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>COGBOLAD</td>
+<td>İç Anadolu Bölgesi</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>AD</td>
+<td>KOCASİNAN</td>
+</tr>
+<tr>
+<td>GLOBALID</td>
+<td>{6AC15539-875F-406F-A210-BE58B983BED7}</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr>
+<td>x</td>
+<td>35° 28' 10,369" E</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>y</td>
+<td>38° 43' 21,569" N</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 40.46641517600006,43.16630138700003,0</coordinates>
+      </Point>
+    </Placemark>
+  </Folder>
+  <Folder id="FeatureLayer1">
+    <name>Export_Outputs</name>
+    <Snippet></Snippet>
+    <Placemark id="ID_10000">
+      <name>KAYSERİ SİVAS DEVLET YOLU 1.KISIM</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>KAYSERİ SİVAS DEVLET YOLU 1.KISIM</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Polyline</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADI</td>
+<td>KAYSERİ SİVAS DEVLET YOLU 1.KISIM</td>
+</tr>
+<tr>
+<td>PROJEID</td>
+<td>3299</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PROJEADI</td>
+<td>KAYSERİ SİVAS DEVLET YOLU 1.KISIM</td>
+</tr>
+<tr>
+<td>KKN</td>
+<td>260-11</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>BOLGE</td>
+<td>6</td>
+</tr>
+<tr>
+<td>ID</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>SHAPE_Length</td>
+<td>36,279019</td>
+</tr>
+<tr>
+<td>GlobalID</td>
+<td>{E91F8EFB-F1E7-48E9-963C-7F455755239F}</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#LineStyle10</styleUrl>
+      <MultiGeometry>
+        <LineString>
+          <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 12.08620746800006,45.92608909300003,0 48.20642553600004,49.31682102700006,0</coordinates>
+        </LineString>
+      </MultiGeometry>
+    </Placemark>
+  </Folder>
+  <Folder id="FeatureLayer2">
+    <name>Export_Output_3</name>
+    <Snippet></Snippet>
+    <Placemark id="ID_20000">
+      <name>NULL</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td></td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Polygon</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADI</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>PROJEID</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PROJEADI</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>KKN</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>BOLGE</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>SHAPE_Length</td>
+<td>65,452558</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>SHAPE_Area</td>
+<td>246,350054</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#PolyStyle20</styleUrl>
+      <MultiGeometry>
+        <Polygon>
+          <extrude>0</extrude>          <altitudeMode>clampToGround</altitudeMode>
+          <outerBoundaryIs><LinearRing><coordinates> 21.93717603200003,22.30280022800002,0 38.35545697200007,24.08739598200003,0 34.20552826100004,37.50829963600006,0 13.72803556200006,33.72421305500006,0 21.93717603200003,22.30280022800002,0</coordinates></LinearRing></outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+    </Placemark>
+  </Folder>
+  <Style id="IconStyle00">
+    <IconStyle>
+      <Icon><href>Layer0_Symbol_20f25a38_0.png</href></Icon>
+      <scale>0.750000</scale>
+    </IconStyle>
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0.000000</scale>
+    </LabelStyle>
+    <PolyStyle>
+      <color>ff000000</color>
+      <outline>0</outline>
+    </PolyStyle>
+  </Style>
+  <Style id="LineStyle10">
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0.000000</scale>
+    </LabelStyle>
+    <LineStyle>
+      <color>ff0000e6</color>
+      <width>7.000000</width>
+    </LineStyle>
+    <PolyStyle>
+      <color>00000000</color>
+      <outline>0</outline>
+    </PolyStyle>
+  </Style>
+  <Style id="PolyStyle20">
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0.000000</scale>
+    </LabelStyle>
+    <LineStyle>
+      <color>ff6e6e6e</color>
+      <width>0.400000</width>
+    </LineStyle>
+    <PolyStyle>
+      <color>ff0000ff</color>
+      <outline>1</outline>
+    </PolyStyle>
+  </Style>
+</Document>
+</kml>
